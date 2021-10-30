@@ -7,6 +7,8 @@ Gtk GUI for alsamixer
 
 ### Usage
 
-```python3 /path/to/alsamixer_gui.py```
+```shell
+python3 /path/to/alsamixer_gui.py
+```
 
 ![screenshot](https://raw.githubusercontent.com/Axel-Erfurt/alsamixer_gui/main/amixergui.png)
